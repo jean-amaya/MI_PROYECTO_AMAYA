@@ -10,6 +10,7 @@
 Aplicación interactiva desarrollada en **Streamlit** como proyecto del **Módulo 1: Python Fundamentals**.  
 Incluye **Home** y **4 ejercicios** que aplican fundamentos de programación: variables, condicionales, listas, diccionarios, funciones, programación funcional y POO.
 
+
 ---
 
 ## Funcionalidades principales
@@ -21,6 +22,19 @@ Incluye **Home** y **4 ejercicios** que aplican fundamentos de programación: va
 - **Ejercicio 3**: retorno esperado usando **funciones + `map()` + `lambda`**.
 - **Ejercicio 4**: modelado con **POO** (clase `Actividad` y métodos).
 
+---
+
+## Enlaces
+
+- **Repositorio GitHub**: https://github.com/jean-amaya/MI_PROYECTO_AMAYA
+- **Aplicación en Streamlit Cloud**: https://github.com/jean-amaya/MI_PROYECTO_AMAYA/edit/main/README.md
+
+---
+
+## Autor
+
+- **Jeancarlos Amaya Quispe**
+- **2026**
 
 ---
 
@@ -33,9 +47,3 @@ Proyecto-Python-Fundamentals/
 ├─ README.md              # Documentación del proyecto
 ├─ requirements.txt       # Dependencias del proyecto
 └─ logo.png               # Logo
-
-
-
----
-## Estructura del repositorio
-```bash
