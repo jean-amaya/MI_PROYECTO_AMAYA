@@ -15,7 +15,6 @@ Incluye **Home** y **4 ejercicios** que aplican fundamentos de programación: va
 
 ## Funcionalidades principales
 
-- **Interfaz tipo dashboard**:
 - **Home** con presentación del proyecto, objetivo y tecnologías.
 - **Ejercicio 1**: verificador de presupuesto (variables y condicionales).
 - **Ejercicio 2**: registro de actividades (lista de diccionarios) + tabla y estado.
@@ -41,7 +40,6 @@ Incluye **Home** y **4 ejercicios** que aplican fundamentos de programación: va
 ## Estructura del repositorio
 
 ```bash
-# Carpeta raíz del proyecto
 Proyecto-Python-Fundamentals/
 ├─ app.py                 # Archivo principal de la aplicación Streamlit
 ├─ README.md              # Documentación del proyecto
