@@ -1,28 +1,39 @@
 # MI_PROYECTO_AMAYA
+# APLICACIÓN – PYTHON FUNDAMENTALS (Streamlit)
 
-Aplicación desarrollada en **Streamlit** que integra conceptos fundamentales de programación: **variables y condicionales**, **listas y diccionarios**, **funciones y programación funcional (map/lambda)** y **programación orientada a objetos (POO)**.
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Framework](https://img.shields.io/badge/Framework-Streamlit-red)
+![Data](https://img.shields.io/badge/Data-Pandas-6f42c1)
+![UI](https://img.shields.io/badge/UI-Custom%20CSS-informational)
+![PRs](https://img.shields.io/badge/PRs-Welcome-orange)
 
-## Estructura
-- `app.py`
-- `requirements.txt`
-- `README.md`
+Aplicación interactiva desarrollada en **Streamlit** como proyecto del **Módulo 1: Python Fundamentals**.  
+Incluye **Home** y **4 ejercicios** que aplican fundamentos de programación: variables, condicionales, listas, diccionarios, funciones, programación funcional y POO.
 
-## Ejecución local
-1. Crear y activar entorno (opcional):
-   - `python -m venv .venv`
-   - Windows: `.venv\Scripts\activate`
-   - Linux/Mac: `source .venv/bin/activate`
+---
 
-2. Instalar dependencias:
-   - `pip install -r requirements.txt`
+## Funcionalidades principales
 
-3. Ejecutar la app:
-   - `streamlit run app.py`
+- **Interfaz tipo dashboard**: sidebar oscuro + área principal clara, con estilos CSS personalizados.
+- **Home** con presentación del proyecto, objetivo y tecnologías.
+- **Ejercicio 1**: verificador de presupuesto (variables y condicionales).
+- **Ejercicio 2**: registro de actividades (lista de diccionarios) + tabla y estado.
+- **Ejercicio 3**: retorno esperado usando **funciones + `map()` + `lambda`**.
+- **Ejercicio 4**: modelado con **POO** (clase `Actividad` y métodos).
 
-## Enlaces
-- Repositorio GitHub: (colocar enlace)
-- Aplicación en Streamlit Cloud: (colocar enlace)
+> Nota: cada ejercicio gestiona su propio estado con `st.session_state`, por lo que son independientes.
 
-## Autor
-- Nombre del estudiante
-- 2026
+---
+
+## Estructura del repositorio
+
+```bash
+# Carpeta raíz del proyecto
+Proyecto-Python-Fundamentals/
+├─ app.py                 # Archivo principal de la aplicación Streamlit
+├─ README.md              # Documentación del proyecto
+├─ requirements.txt       # Dependencias del proyecto
+├─ logo.png               # Logo (opcional, usado en el sidebar)
+└─ data/                  # (Opcional) Archivos de prueba / recursos adicionales
+   └─ (coloca aquí tus archivos si los necesitas)
