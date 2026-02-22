@@ -34,3 +34,8 @@ Proyecto-Python-Fundamentals/
 ├─ requirements.txt       # Dependencias del proyecto
 └─ logo.png               # Logo
 
+
+
+---
+## Estructura del repositorio
+```bash
