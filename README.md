@@ -1,4 +1,3 @@
-# MI_PROYECTO_AMAYA
 # APLICACIÓN – PYTHON FUNDAMENTALS (Streamlit)
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
@@ -34,6 +33,5 @@ Proyecto-Python-Fundamentals/
 ├─ app.py                 # Archivo principal de la aplicación Streamlit
 ├─ README.md              # Documentación del proyecto
 ├─ requirements.txt       # Dependencias del proyecto
-├─ logo.png               # Logo (opcional, usado en el sidebar)
-└─ data/                  # (Opcional) Archivos de prueba / recursos adicionales
-   └─ (coloca aquí tus archivos si los necesitas)
+└─ logo.png               # Logo
+
