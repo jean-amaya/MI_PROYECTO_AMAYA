@@ -14,14 +14,13 @@ Incluye **Home** y **4 ejercicios** que aplican fundamentos de programación: va
 
 ## Funcionalidades principales
 
-- **Interfaz tipo dashboard**: sidebar oscuro + área principal clara, con estilos CSS personalizados.
+- **Interfaz tipo dashboard**:
 - **Home** con presentación del proyecto, objetivo y tecnologías.
 - **Ejercicio 1**: verificador de presupuesto (variables y condicionales).
 - **Ejercicio 2**: registro de actividades (lista de diccionarios) + tabla y estado.
 - **Ejercicio 3**: retorno esperado usando **funciones + `map()` + `lambda`**.
 - **Ejercicio 4**: modelado con **POO** (clase `Actividad` y métodos).
 
-> Nota: cada ejercicio gestiona su propio estado con `st.session_state`, por lo que son independientes.
 
 ---
 
